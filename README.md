@@ -1,6 +1,7 @@
 # Trading System - REST API Backend & SDK
 
 A simplified trading backend system with REST API endpoints and a Java SDK wrapper for easy integration.
+<img width="1266" height="530" alt="Screenshot 2026-01-09 at 12 30 57 AM" src="https://github.com/user-attachments/assets/ac58e203-223a-4ce0-99da-06769e6dcf95" />
 
 ## Project Structure
 
@@ -17,7 +18,7 @@ Backend Service
    ↓
 Database / Exchange
 
-```<img width="1266" height="530" alt="Screenshot 2026-01-09 at 12 30 57 AM" src="https://github.com/user-attachments/assets/2eeb35f4-9163-4ee9-900e-a9bd30573a60" />
+<img width="1266" height="530" alt="Screenshot 2026-01-09 at 12 30 57 AM" src="https://github.com/user-attachments/assets/9062b209-ac20-4e71-b75b-0dba66003cfe" />
 
 ## Features
 
