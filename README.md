@@ -4,20 +4,7 @@ A simplified trading backend system with REST API endpoints and a Java SDK wrapp
 
 ## Project Structure
 
-```
-BAZ/
-├── backend/              # Spring Boot REST API
-│   ├── src/main/java/com/trading/
-│   │   ├── controller/   # REST controllers
-│   │   ├── service/      # Business logic
-│   │   └── model/        # Data models
-│   └── pom.xml
-└── sdk/                  # Java SDK wrapper
-    ├── src/main/java/com/trading/sdk/
-    │   ├── client/       # API client
-    │   ├── model/        # SDK models
-    │   └── example/      # Usage examples
-    └── pom.xml
+
 ```
 
 User App
@@ -30,7 +17,7 @@ Backend Service
    ↓
 Database / Exchange
 
-
+```<img width="1266" height="530" alt="Screenshot 2026-01-09 at 12 30 57 AM" src="https://github.com/user-attachments/assets/2eeb35f4-9163-4ee9-900e-a9bd30573a60" />
 
 ## Features
 
