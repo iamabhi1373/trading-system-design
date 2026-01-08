@@ -20,6 +20,18 @@ BAZ/
     └── pom.xml
 ```
 
+User App
+   ↓
+SDK (client/)
+   ↓ HTTP
+Backend Controller
+   ↓
+Backend Service
+   ↓
+Database / Exchange
+
+
+
 ## Features
 
 ### REST API Endpoints
